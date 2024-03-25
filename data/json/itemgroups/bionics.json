@@ -185,7 +185,7 @@
       [ "bio_recoil", 10 ]
     ]
   },
-   {
+  {
     "type": "item_group",
     "id": "bionics_op",
     "subtype": "distribution",

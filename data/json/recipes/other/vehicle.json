@@ -97,7 +97,7 @@
     "qualities": [ { "id": "HAMMER_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "SAW_M_FINE", "level": 1 } ],
     "components": [ [ [ "sheet_metal", 1 ], [ "steel_standard", 1, "LIST" ] ], [ [ "clockworks", 2 ], [ "lock", 1 ] ] ]
   },
-    {
+  {
     "result": "door_lock",
     "type": "recipe",
     "activity_level": "MODERATE_EXERCISE",
